@@ -1,0 +1,419 @@
+.containerfluid{
+    width: 100%;
+    height: 695px;
+    
+
+}
+#background{
+    width: 1366px;
+    height: 695px;
+    
+}
+#fontflix{
+    font-weight: 700;
+    color: #e50914;
+    }
+
+#font{
+    position: absolute;
+    left: 111px;
+    top: 52px;
+}
+#helloo{
+    color: aliceblue;
+    font-size: 100px;
+}
+#hello{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+.ui-select{
+    position: absolute;
+    right: 180px;
+    top:60px;
+    color: aliceblue    ;
+    background-color: black ;
+}
+.btn{
+    position: absolute;
+    right: 81px;
+    top: 52px  ;
+    color: white;
+}
+#searchengine{
+    width: 496px;
+    height: 115px;
+    position: absolute;
+    right:476px;
+    top: 196px;  
+    
+}
+
+#unlimited{
+    color: white;
+    font-size: 3.125rem;
+}
+#searchengine2{
+    width: 423px;
+    height: 45px;
+    position: absolute;
+    right:529px;
+    top: 310px; 
+
+}
+#unlimited1{
+    color: white;
+    font-size: 1.625rem;
+}
+#email-form-title{
+    color: white;
+    font-size: 1.2rem;
+    max-width: none;
+    padding-bottom: 20px;
+}
+#searchengine3{
+    width: 670px;
+    height: 31px;
+    position: absolute;
+    right: 391px;
+    top: 346px; 
+    
+}
+#ex3{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 400px;
+    top: 368px; 
+    left: -94px;
+    height: 50px;
+    width: 500px;
+
+}
+.btn1{
+    background-color: #e50914;
+    font-size: 1.625rem;
+    color: white;
+    position: absolute;
+    top: 388px;
+    left:806px;
+    width: 200px;
+    height: 50px;
+}
+
+
+/* Enjoy on your TV */
+
+
+
+#ourstorycard{
+    background-color: black;
+    width: 100%;
+    height: 700px;
+}
+
+.our-story-card-img{
+    float: right;
+}
+.our-story-card-video{
+    position: absolute;
+    right: 91px;
+    top :796px;
+    width: 464px;
+}
+.our-story-card-title{
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+    color: white;
+    position: absolute;
+    left: 151px;
+    top:855px;
+}
+.our-story-card-subtitle{
+    width: 459px;
+    font-size: 1.625rem;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    left: 151px;
+    top: 945px;
+
+}
+/* download your shows to watch online */
+
+
+
+#our-story-card-img2 {
+    float: left;
+    position: absolute;
+    top: 1400px;
+}
+.our-story-card-animation-image{
+    
+    position: absolute;
+    left: 151px;
+    top:1747px;
+    
+
+}
+#animation-card-container{
+    background-color:black;
+    width: 100%;
+    height: 608px;
+}
+#our-story-card-title{
+    position: absolute;
+    left: 690px;
+    top:1610px;
+    width: 562px;
+    height: 100px;
+
+}
+#our-story-card-subtitle2{
+    position: absolute;
+    left: 690px;
+    top:1810px;
+    width: 562px;
+    height: 100px;
+
+}
+#our-story-card-animation1{
+    width: 382px;
+    height:79px;
+    background-color:black;
+    margin-left: 200px;
+    position:absolute;
+    left: -69px;
+    top: 1738px;
+    border-radius: 20px;
+    border-color: white;
+    border-style:double;
+}
+#our-story-card-animation-image-strnger-things{
+    height: 63px;
+    width: 60px;
+}
+#text-0{
+    position: absolute;
+    top: 1764px;
+    left: 230px;
+    color:white;
+}
+#text-1{
+    position: absolute;
+    top: 1784px;
+    left: 230px;
+    color: #0071eb;
+}
+.margin-container{
+    height: 8px;
+    width: 100%;
+    position: absolute;
+    top: 1236px;
+    
+    
+    background-color:grey;;
+}
+
+/* watch on device */
+
+
+#our-story-card-animation-card{
+    background-color: black;
+    width: 100%;
+    height: 633px;
+}
+#our-story-card-img3{
+    float: right;
+    position: absolute;
+    top: 750px; 
+    right: -36px;
+    width: 710px;
+}
+#our-story-card-video3{
+    position: absolute;
+    right: 49px;
+    top :1370px;
+    width: 2123px;
+
+}
+#our-story-card-title3{
+    position: absolute;
+    left: -20px;
+    top:1338px;
+    width: 700px;
+    height: 100px;
+
+
+}
+
+
+
+/* creating profiles for children */
+
+
+#our-story-card-animation-card4{
+    background-color: black;
+    width: 100%;
+    height: 633px;
+
+}
+#our-story-card-text4{
+
+    position: absolute;
+    left: 534px;
+    top:2000px;
+    width: 800px;
+    height: 100px;
+}
+#our-story-card-img4{
+    float: left;
+    position: absolute;
+    left: 150px;
+    top: 2719px;
+}
+#our-story-card-imgsize{
+    height: 500px; 
+    width: 500px;
+}
+
+
+/* Frequently Asked Questions */
+
+
+
+#our-story-card-animation-card5{
+    background-color:black;
+    width: 100%;
+    height: 1000px;
+
+}
+#questionhead2{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+.netflix1{
+    height: 66px;
+    width: 758px;
+    background-color: grey;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.netflix3{
+    margin-left :670px;
+    margin-top: -48px;
+    font-size: 50px;
+}
+.netflix2{
+    padding-left: 100px;
+    padding-top: 10px;
+    color: white;
+}
+#netflix4{
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    max-width: none;
+    padding-bottom: 20px
+}
+.netflix4{
+    margin-top: 50px;
+}
+
+
+/* last buttons */
+
+
+#lastbutton1{
+    position: absolute;
+    left: 267px;
+    top:4089px;
+    width: 500px;
+    height:50px;
+
+}
+#lastbutton2{
+    background-color: #e50914;
+    font-size: 1.625rem;
+    color: white;
+    position: absolute;
+    top: 4089px;
+    left: 760px;
+    width: 200px;
+    height: 50px;
+    margin-top: auto;
+}
+
+/* footerdiv */
+#footerdiv{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    
+    position: absolute;
+    top: 4200px;
+}
+#footerfont{
+    margin-left: 200px;
+    margin-top: 80px;
+    color: #737373;
+    font-size: 1em;
+}
+.footer1{
+    
+    color: #737373;
+    font-size: 1em;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+
+}
+.footer2{
+    
+    color: #737373;
+    font-size: 1em;
+    position: absolute;
+    top: 130px;
+    left: 500px;
+
+
+}
+.footer3{
+    
+    color: #737373;
+    font-size: 1em;
+    position: absolute;
+    top: 130px;
+    left: 800px;
+
+
+}
+.footer4{
+    
+    color: #737373;
+    font-size: 1em;
+    position: absolute;
+    top: 130px;
+    left: 1100px;
+
+
+}
+#lang-switcher-header-select1{
+    position: absolute;
+    left: 205px;
+    top:347px;
+    width: 128px;
+    height: 60px;
+    border-color: white;
+}
+#nettttt{
+    margin-left: 195px;
+    margin-top: 340px;
+    font-size: 13px;
+   
+}
